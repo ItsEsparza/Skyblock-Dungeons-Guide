@@ -33,7 +33,7 @@ public class CoordinateMapWorld extends World {
 
     @Override
     public TileEntity getTileEntity(BlockPos pos) {
-        throw new UnsupportedOperationException("Yikes");
+        return null;
     }
 
     @Override
